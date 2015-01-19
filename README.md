@@ -18,6 +18,6 @@ $ACCESS_TOKEN_SECRET = '';
 
 presi dal punto 2)
 
-4) aprire il file jquery.jstwitter.js e inserire l'hashtag da cercare. uare ad esempio la dicitura %23sod15 in serarch: per cercare #sod15 oppure cercare i tweet per user e quindi lasciare in bianco il campo search:
+4) aprire il file jquery.jstwitter.js e inserire l'hashtag da cercare. usare ad esempio la dicitura %23sod15 in serarch: per cercare #sod15 oppure cercare i tweet per user e quindi lasciare in bianco il campo search:
 
 le licenze seguono i rispettivi files.
